@@ -1,0 +1,27 @@
+Alfa Version - 1.0 Version inicial del sistema. 
+Funcionalidades:
+  - Registro y LogIn de Usuario.
+  - Pestaña Usuario:
+      - LogOut - Salvar Datos.
+      - Borrar Cuenta de Usuario.
+  - Pestaña Movimientos:
+      - Añadir Nueva Transaccion.
+      - Borrar Transaccion Existente.
+      - Edittar Transacción Existente.
+      - Visualizar Detalles de Transacciones Existentes.
+      - Visualización de balance mensual acorde a la hora del sistema.
+
+Alfa Version - 1.1 Corrección de Errores
+
+Alfa Version - 1.2 Correcciones Multiplataforma
+
+- Se han cambiado los colores de los campos de Texto de todas las vistas por colores estáticos para que se vean iguales en
+todos los Sistemas.
+- Se permite Redimensionar las ventanas de todas las vistas.
+
+Alfa Version - 1.3 
+
+- Refactorización del Código
+- Añadida Utilidad:Conversor de Divisas
+- Añadidad Funcionalidad: Fotos de Perfil de Usuario
+- Añadida Confirmación de Borrado de Usuario
